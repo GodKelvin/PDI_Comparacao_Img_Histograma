@@ -15,6 +15,10 @@ ela é armazenada em um dicionário.
 Por conta das dificuldades encontradas, não sei como ficará minha nota, mas caso permita e me tire algumas dúvidas,
 posso tentar melhorar esse código ainda nessa semana (ou conforme o semestre avança) :)
 
+Ah sim, no documento do jupyter, além dos códigos do trabalho, no início dele também estão os códigos de "teste",
+que fiz conforme orientado nos slides, para fins de "entender o que estava acontecendo" e me familiarizar também,
+espero que não tenha problemas!
+
 Desde já, agradeço!
 Tenhamos uma boa aula hoje!.
 
